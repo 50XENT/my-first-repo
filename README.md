@@ -1,2 +1,4 @@
-# my-first-repo
- app development
+# my-first-repository
+
+app development
+
